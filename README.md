@@ -33,7 +33,7 @@ Scripts should be run in the following order
 If you need more information or help, contact Daniel Clements (dclements@bigelow.org) or Daniele Bianchi (dbianchi@atmos.ucla.edu)
 
 # How to cite
-Please cite the future manuscript and this repository DOI [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.18914.svg)](http://dx.doi.org/10.5281/zenodo.18914)
+Please cite the future manuscript and this repository DOI [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.12976821.svg)](http://dx.doi.org/110.5281/zenodo.12976821)
 
 # License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
