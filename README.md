@@ -1,7 +1,25 @@
 # Global-POC-Flux
 Code and data nessecary to create the flux output for Clements et al. 2024 "Modeling the Diel Vertical Migration and Active Carbon Transport of zooplankton"
 
+Included are the needed functions to run each of the scripts. They are located in the folder denoted "functions"
 
+Some of the needed data files are included here. The rest are available as notated below: 
+
+**Biovolume and slope observations**
+These gridded observations are included as part of the data output located on BCO-DMO. 
+The file is named "Global_POC_Export_2024" 
+
+**Predictors_3D**
+The predictors file is uploaded to BCO-DMO as a . mat file. 
+File is large ~3.6 GB
+
+**Etopo2.nc**
+This data is stored by NOAA, thus not uploaded here or on the BCO-DMO repository. 
+Data can be accessed following the link below: 
+https://sos.noaa.gov/catalog/datasets/etopo2-bathymetry/
+
+
+**For running this code**
 Scripts should be run in the following order
 1. Make predictions
     This will generate predictions of the Biovolume and Slope 
@@ -10,6 +28,4 @@ Scripts should be run in the following order
 3. Linear_int_flux
      This will generate a mean export flux with varying vertical sinking carbon profiles.
 
-All other files are needed to run the above codes. 
-Needed data files are also included. 
 
