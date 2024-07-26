@@ -19,7 +19,7 @@ Data can be accessed following the link below:
 https://sos.noaa.gov/catalog/datasets/etopo2-bathymetry/
 
 
-**For running this code**
+# Instructions 
 Scripts should be run in the following order
 1. Make predictions
     This will generate predictions of the Biovolume and Slope 
@@ -29,3 +29,10 @@ Scripts should be run in the following order
      This will generate a mean export flux with varying vertical sinking carbon profiles.
 
 
+# Contact
+If you need more information or help, contact Daniel Clements (dclements@bigelow.org) or Daniele Bianchi (dbianchi@atmos.ucla.edu)
+
+# How to cite
+Please cite the future manuscript and this repository DOI
+
+# License
