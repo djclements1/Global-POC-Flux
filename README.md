@@ -28,6 +28,8 @@ Scripts should be run in the following order
 3. Linear_int_flux
      This will generate a mean export flux with varying vertical sinking carbon profiles.
 
+This code was written and run using matlab version 2019a. and should be usable for most versions of matlab. 
+Given the large files needed to run code, it may not be possible to make global estiamtes of sinking flux at global scale without additional computing resources. 
 
 # Contact
 If you need more information or help, contact Daniel Clements (dclements@bigelow.org) or Daniele Bianchi (dbianchi@atmos.ucla.edu)
